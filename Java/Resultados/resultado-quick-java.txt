@@ -1,0 +1,10 @@
+Quick Sort - Tempo: 28 ms, RAM: 2193 KB
+Quick Sort - Tempo: 18 ms, RAM: 2111 KB
+Quick Sort - Tempo: 23 ms, RAM: 2111 KB
+Quick Sort - Tempo: 19 ms, RAM: 2111 KB
+Quick Sort - Tempo: 21 ms, RAM: 2111 KB
+Quick Sort - Tempo: 21 ms, RAM: 2111 KB
+Quick Sort - Tempo: 22 ms, RAM: 2111 KB
+Quick Sort - Tempo: 24 ms, RAM: 2111 KB
+Quick Sort - Tempo: 23 ms, RAM: 2111 KB
+Quick Sort - Tempo: 17 ms, RAM: 2111 KB

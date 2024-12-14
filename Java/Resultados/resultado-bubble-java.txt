@@ -1,0 +1,10 @@
+Bubble Sort - Tempo: 2213 ms, RAM: 54957 KB
+Bubble Sort - Tempo: 1621 ms, RAM: 11171 KB
+Bubble Sort - Tempo: 1150 ms, RAM: 90002 KB
+Bubble Sort - Tempo: 1097 ms, RAM: 78497 KB
+Bubble Sort - Tempo: 1091 ms, RAM: 73376 KB
+Bubble Sort - Tempo: 1189 ms, RAM: 100001 KB
+Bubble Sort - Tempo: 1221 ms, RAM: 51868 KB
+Bubble Sort - Tempo: 1132 ms, RAM: 88962 KB
+Bubble Sort - Tempo: 1129 ms, RAM: -350 KB
+Bubble Sort - Tempo: 1106 ms, RAM: 73376 KB
